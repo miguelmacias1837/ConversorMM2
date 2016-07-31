@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="monedas"></string-array>
+    <ítem>DÓLAR</ítem>
+    <ítem>EURO</ítem>
+    <ítem>PESO MEXICANO</ítem>
+</resources>
